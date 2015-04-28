@@ -6,7 +6,7 @@ A list of convenience stores in Japan that includes geographic coordinates, for 
 
 The CSV file contains the barest essentials — chain, location name, latitude & longitude — while the SQLite database includes the raw information (which can and does differ between different chains, based on availability).
 
-Example CSV field: `7-11,"富山城址公園前",36.6915631,137.2129004`
+Example CSV line: `7-11,"富山城址公園前",36.6915631,137.2129004`
 
 A recommended SQLite database client for Mac is [Base](http://menial.co.uk/base/).
 
