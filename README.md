@@ -1,6 +1,6 @@
 # konbini
 
-A list of convenience stores in Japan that includes geographic coordinates, for use in mapping and data science.
+A list of convenience stores in Japan that includes geographic coordinates, for use in mapping and data science. This data is from early 2013.
 
 ## use
 
@@ -12,7 +12,7 @@ A recommended SQLite database client for Mac is [Base](http://menial.co.uk/base/
 
 ##coverage
 
-47477 locations are included in the CSV file. This includes every major chain and minor or regional ones where available:
+47,477 locations are included in the CSV file. This includes every major chain and minor or regional ones where available:
 
 - Lawson
   - Natural Lawson
