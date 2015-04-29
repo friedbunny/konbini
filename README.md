@@ -2,6 +2,8 @@
 
 A list of convenience stores in Japan that includes geographic coordinates, for use in mapping and data science. This data is from early 2013.
 
+[![alt text](example.jpg "Convenience stores outlining the rough shape of Japan")](http://konbini.kulturny.com)
+
 ## use
 
 The CSV file contains the barest essentials — chain, location name, latitude & longitude — while the SQLite database includes the raw information (which can and does differ between different chains, based on availability).
